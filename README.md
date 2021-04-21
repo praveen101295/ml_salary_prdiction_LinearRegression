@@ -1,1 +1,1 @@
-# ml_salary_prdiction_Linearregression
+# ml_salary_prdiction_LinearRegression
